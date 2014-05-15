@@ -1,0 +1,2299 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "16903",
+"files": {
+	"\/_footer.php": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/_header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contacto.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contacto.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/desarrollo-web.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/desarrollo-web.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dibujo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dibujo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/diseño.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/diseño.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/enviar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/enviar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/fonts\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fonts\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/foto.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/foto.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/ATCM-Responsive-Design.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.07183e+06,
+		"inputAbbreviatedPath": "\/img\/ATCM-Responsive-Design.jpg",
+		"outputAbbreviatedPath": "\/img\/ATCM-Responsive-Design.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bkg-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15232,
+		"inputAbbreviatedPath": "\/img\/bkg-01.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/bkg-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14016,
+		"inputAbbreviatedPath": "\/img\/bkg-02.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/bkg-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5725,
+		"inputAbbreviatedPath": "\/img\/bkg-03.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/bkg-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13200,
+		"inputAbbreviatedPath": "\/img\/bkg-05.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/bkg-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24869,
+		"inputAbbreviatedPath": "\/img\/bkg-06.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/bkg-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20391,
+		"inputAbbreviatedPath": "\/img\/bkg-07.jpg",
+		"outputAbbreviatedPath": "\/img\/bkg-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/portfolio\/desarrollo-web\/CompoResponsive-Globalterapia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-Globalterapia.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-Globalterapia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/portfolio\/desarrollo-web\/CompoResponsive-LipoClub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213108,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-LipoClub.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-LipoClub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/desarrollo-web\/CompoResponsive-TenerifeGuides.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182955,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-TenerifeGuides.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/CompoResponsive-TenerifeGuides.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-Globalterapia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36065,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-Globalterapia.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-Globalterapia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-LipoClub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38213,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-LipoClub.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-LipoClub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-TenerifeGuides.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35627,
+		"inputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-TenerifeGuides.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/desarrollo-web\/Min-CompoResponsive-TenerifeGuides.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Candelaria.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Candelaria.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Candelaria.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Casa-del-vino.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 622950,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Casa-del-vino.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Casa-del-vino.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/La-Orotava.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428802,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/La-Orotava.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/La-Orotava.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Las-Catedrales.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Las-Catedrales.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Las-Catedrales.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Min-Candelaria.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42748,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Candelaria.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Candelaria.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Min-Casa-del-vino.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65744,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Casa-del-vino.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Casa-del-vino.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Min-La-Orotava.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47615,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-La-Orotava.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-La-Orotava.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Min-Las-Catedrales.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39641,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Las-Catedrales.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Las-Catedrales.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Min-Teide.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45845,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Teide.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Min-Teide.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/paisaje\/Teide.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 428333,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Teide.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/paisaje\/Teide.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Angel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243362,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Angel.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Angel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Antonio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 487943,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Antonio.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Antonio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Hackam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283175,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Hackam.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Hackam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Melina.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 386538,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Melina.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Melina.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Min-Angel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29694,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Angel.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Angel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Min-Antonio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61237,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Antonio.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Antonio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Min-Hackam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31627,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Hackam.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Hackam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/dibujo\/retrato\/Min-Melina.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72667,
+		"inputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Melina.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/dibujo\/retrato\/Min-Melina.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/cleanbody-flyers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231364,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/cleanbody-flyers.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/cleanbody-flyers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/cleanbody-ikea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/cleanbody-ikea.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/cleanbody-ikea.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-flyers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46002,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-flyers.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-flyers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-ikea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50625,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-ikea.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-cleanbody-ikea.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/Min-rollups.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41159,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-rollups.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-rollups.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/Min-spabeauty-lonas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21586,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-spabeauty-lonas.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/Min-spabeauty-lonas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/rollups.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189695,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/rollups.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/rollups.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/diseño-publicitario\/spabeauty-lonas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90861,
+		"inputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/spabeauty-lonas.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/diseño-publicitario\/spabeauty-lonas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 242885,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 253887,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 378532,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 338422,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 509026,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/fotoart-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 540794,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/fotoart-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47460,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45858,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52913,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48838,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74938,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80737,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/artistica\/Min-fotoart-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 314754,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11014e+06,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226978,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194689,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172656,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 461665,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 471900,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-07.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 276448,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-08.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556978,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-09.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/fotografo-privado-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42188,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64936,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34631,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39688,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73604,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84772,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82743,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-07.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42302,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-08.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88242,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-09.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/fotografo-privado\/Min-fotografo-privado-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475231,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 531063,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-02.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190803,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160576,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228473,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 555826,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 593146,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-07.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 583454,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-08.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249676,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-09.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223184,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-10.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/fotopubli-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69309,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-01.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46186,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-03.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36078,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-04.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41713,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-05.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80028,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-06.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94041,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-08.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48483,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-09.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38089,
+		"inputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-10.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/fotografia\/publicitaria\/Min-fotopubli-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/ballancer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95753,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/ballancer.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/ballancer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/cleanbody.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190803,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/cleanbody.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/cleanbody.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/clip-max-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148877,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/clip-max-2.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/clip-max-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/clip-max.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83386,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/clip-max.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/clip-max.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/lipocontrast.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88429,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/lipocontrast.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/lipocontrast.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/lipocreme.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 285980,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/lipocreme.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/lipocreme.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-ballancer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18497,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-ballancer.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-ballancer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-cleanbody.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37733,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-cleanbody.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-cleanbody.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-clip-max-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32792,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-clip-max-2.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-clip-max-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-clip-max.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18381,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-clip-max.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-clip-max.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-lipocontrast.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21751,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-lipocontrast.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-lipocontrast.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/imagen-corporativa\/Min-lipocreme.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62150,
+		"inputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-lipocreme.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/imagen-corporativa\/Min-lipocreme.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-adipotecnia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52216,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-adipotecnia.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-adipotecnia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-cleanbody.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67218,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-cleanbody.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-cleanbody.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-eym.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142354,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-eym.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-eym.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-lapalmera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187324,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-lapalmera.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-lapalmera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-lipoclub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75220,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-lipoclub.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-lipoclub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-pozadelasal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72637,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-pozadelasal.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-pozadelasal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/logo-tenerifeguides.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100574,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-tenerifeguides.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/logo-tenerifeguides.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-adipotecnia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12861,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-adipotecnia.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-adipotecnia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-cleanbody.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19534,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-cleanbody.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-cleanbody.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-eym.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33607,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-eym.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-eym.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-lapalmera.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41565,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-lapalmera.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-lapalmera.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-lipoclub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21058,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-lipoclub.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-lipoclub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-pozadelasal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20479,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-pozadelasal.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-pozadelasal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/portfolio\/logos\/Min-logo-tenerifeguides.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26203,
+		"inputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-tenerifeguides.jpg",
+		"outputAbbreviatedPath": "\/img\/portfolio\/logos\/Min-logo-tenerifeguides.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/app.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/app.js",
+		"outputAbbreviatedPath": "\/js\/min\/app-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery-1.11.0.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/jquery-1.11.0.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-1.11.0.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/jquery.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/mail-enviado.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/mail-enviado.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/mediaqueries.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/mediaqueries.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-dibujo-paisaje.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-dibujo-paisaje.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-dibujo-retrato.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-dibujo-retrato.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-diseño-publicitario.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-diseño-publicitario.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-fotografia-artistica.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-fotografia-artistica.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-fotografia-publicitaria.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-fotografia-publicitaria.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-fotografo-privado.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-fotografo-privado.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-imagen-corporativa.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-imagen-corporativa.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-logos.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-logos.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/portfolio-web.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/portfolio-web.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylus\/icons.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/stylus\/icons.styl",
+		"outputAbbreviatedPath": "\/icons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/stylus\/mediaqueries.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/stylus\/mediaqueries.styl",
+		"outputAbbreviatedPath": "\/mediaqueries.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/stylus\/normalize.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/stylus\/normalize.styl",
+		"outputAbbreviatedPath": "\/normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/stylus\/style.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/stylus\/style.styl",
+		"outputAbbreviatedPath": "\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/stylus\/variables.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/stylus\/variables.styl",
+		"outputAbbreviatedPath": "\/variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Alberto García",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "DEV-almacode-v-0.1",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_brown"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no-unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "DEV-almacode-v-0.1\/",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptOutputSuffix": "-ck",
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"gcl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onevar": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"smarttabs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"trailing": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathRelativePath": "..\/",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

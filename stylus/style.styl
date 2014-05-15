@@ -1,0 +1,452 @@
+@import 'nib'
+@import 'normalize'
+@import 'variables'
+@import 'icons'
+
+
+//myReset ====================================
+
+*
+	box-sizing border-box
+a 
+	text-decoration none
+body
+	font-size 16px
+	font-family 'Source Sans Pro', sans-serif
+	font-weight 300
+	margin 0 auto
+	// max-width 1024px
+
+
+figure, p
+	margin 0
+	padding 0
+img
+	// max-width 100%
+ul
+	list-style-type none
+	margin 0
+	padding 0
+h1, h2
+	margin 0 
+	padding 0
+//============================================
+
+
+
+header
+	background lightgrey
+
+.article_design
+	background ttt-black
+	border 1px solid lightgrey
+	border-radius 0.5em
+	color lightgrey
+	margin 1em 4%
+	padding 1.5em 1em
+	text-align center
+	h2
+		font-weight 300
+		margin-bottom 1em
+	p 
+		font-weight 300
+
+.container_design
+	background-image url('img/bkg-05.jpg')
+	background-size cover
+	background-position center center
+	// height 1050px
+	background-repeat no-repeat
+	padding-bottom 1em
+
+.container_web
+	background-image url('img/bkg-06.jpg')
+	background-size cover
+	background-position center center
+	background-repeat no-repeat
+	padding-bottom 1em
+	
+.container_foto
+	background-image url('img/bkg-07.jpg')
+	background-size cover
+	background-position center center
+	background-repeat no-repeat
+	padding-bottom 1em
+	
+
+
+.boton1
+	display inline-block
+	padding .5em 1em
+	border 1px solid white
+	border-radius 6px
+	font-weight 400
+	color white
+	font-size 1em
+	margin 1em 0
+	text-transform uppercase
+	&:hover
+		color darkgrey
+		background white
+
+.boton2
+	display inline-block
+	padding .5em 1em
+	border 2px solid first
+	border-radius 6px
+	font-weight 400
+	color first
+	font-size 1em
+	margin 1em 0
+	text-transform uppercase
+	&:hover
+		color darkgrey
+		background white
+
+.boton3
+	background lightgrey
+	display inline-block
+	padding .5em 1em
+	border 2px solid first
+	border-radius 6px
+	font-weight 400
+	color first
+	font-size 1em
+	margin 1em 0
+	text-transform uppercase
+	&:hover
+		color darkgrey
+		background white
+
+
+.cite_text
+	background-image url('img/bkg-02.jpg')
+	background-repeat no-repeat
+	background-size cover
+	box-shadow inset 0 1px 2px 0 tt-black
+	padding 1em
+	text-align center
+	h3
+		margin 0
+		color white
+		padding 1em 1em
+		font-weight 300
+		font-size 2em
+	a
+		display inline-block
+		padding 0.5em 1em
+		border 2px solid white
+		border-radius 6px
+		font-weight 400
+		color white
+		font-size 1.4em
+		text-transform uppercase
+		&:hover
+			color darkgrey
+			background white
+.contacto
+	margin 0 auto
+	max-width 500px	
+	padding 1em 0
+
+
+
+.footer
+	background darkgrey
+	box-shadow inset 0 1px 2px 0 tt-black
+	color mediumgrey
+	padding 3em 0
+	text-align center
+
+
+.header_menu
+	position absolute
+	top 0
+	right 0
+	padding 1em
+
+.header_menuamp li
+	border-bottom 3px solid transparent // para evitar que se desplacen los elementos en hover
+
+.header_menuamp
+	display none
+
+.header_menuamp li:hover
+	border-bottom 3px solid second
+
+	// box-sizing border-box
+	// overflow hidden
+
+.header_logo
+	padding 1em
+
+
+.icon-menu-button
+	color darkgrey
+	font-size 2em
+	text-align right
+.icon-logo
+	color four
+	font-size 2.1em
+
+.icon-design
+	color four
+	font-size 3em
+.icon-developer
+	color second
+	font-size 3em
+.icon-photo
+	color green
+	font-size 3em
+.icon-dibujo
+	color darkgrey
+	font-size 3em
+
+
+
+.intro
+	background lightgrey
+	text-align center
+	padding 2em 0
+	border-bottom 1px solid darkgrey
+	padding-left 4%
+	padding-right 4%
+	h2
+		font-weight 300
+
+.leyenda
+	text-align center
+
+.mail-enviado
+	text-align center
+
+.menu
+	background four
+	box-shadow -1px 1px 10px tt-black
+	position absolute
+	text-align right
+	top -300px
+	width 100%
+	transition (0.3s ease-in-out)
+	li
+		border-bottom 1px solid lightgrey
+		&:last-child
+			border-bottom none
+	a
+		color lightgrey
+		display block
+		font-size 1.2em
+		font-weight 400
+		padding 0.5em 1em
+
+.menu_show
+	top 3.5em
+.portfolio
+	background lightgrey
+.welcome
+	background url('img/bkg-01.jpg')
+	background-repeat no-repeat
+	background-size cover
+	background-position center center
+	// height 200px
+	text-align center
+
+.welcome_design
+	text-align center
+.welcome_portfolio
+	background url('img/bkg-03.jpg')
+	background-repeat no-repeat
+	background-size cover
+	background-position center center
+	text-align center	
+.welcome_text
+	color white
+	padding 2em 1em 1em 
+	h1
+		font-weight 200
+	h2
+		font-size 1.5em
+		font-weight 300
+	h3
+		font-size 1.2em
+		font-weight 200
+		font-style oblique
+
+
+//================ Formulario de Contacto ====================
+
+#contact_form
+	.parte1
+		margin 0.5em 0 0 0
+		label
+			border none
+			display block
+			margin 0.5em 0 0 0
+		
+		input
+			border: 1px solid $sc;
+			display: block;
+			font-size: 1em;
+			width: 100%;
+		
+	
+	.parte2
+		margin 1em 0 0 0
+		h4
+			padding 0
+			margin 0
+		textarea
+			border 1px solid mediumgrey
+			width 100%
+		
+	
+	.parte3
+		text-align center
+		label
+			margin 0.5em 0 0 0
+			font-size 0.9em
+			a 
+				color first
+		
+		input
+			font-size: 3em
+		
+	
+
+
+
+
+//================ Portfolio =====================
+
+
+.container-portfolio
+	margin 0
+	padding 0
+	text-align center
+
+
+
+
+
+.lightbox	
+	img
+		border 3px solid #eee
+		box-shadow 0 0 8px rgba(0,0,0,0.3)
+		display inline-block
+		margin 20px
+		width 240px
+
+.lightbox-target
+	position fixed
+	top -100%
+	width 100%
+	background rgba(0,0,0,0.7)
+	width 100%
+	opacity 0
+	overflow hidden
+	transition (opacity .5s ease-in-out)
+	.retina
+		margin auto
+		position absolute
+		top 0
+		left 0
+		right 0
+		bottom 0
+		max-height 0%
+		max-width 0%
+		box-sizing border-box
+		transition (.5s ease-in-out)
+	img
+		margin auto
+		position absolute
+		top 0
+		left 0
+		right 0
+		bottom 0
+		max-height 0%
+		max-width 0%
+		border 3px solid #ccc
+		box-shadow 0 0 8px rgba(0,0,0,0.3)
+		box-sizing border-box
+		transition (.5s ease-in-out)
+
+.lightbox-close
+	display block 
+	width 50px
+	height 50px
+	box-sizing border-box
+	background white
+	color black
+	text-decoration none
+	position absolute
+	top -80px
+	right 0
+	transition (.5s ease-in-out)
+
+.lightbox-close:before
+	content ""
+	display block
+	height 30px
+	width 1px
+	background black
+	position absolute
+	left 26px
+	top 10px
+	transform rotate(45deg)
+
+.legend
+	color white
+	z-index -1
+
+
+.lightbox-close:after
+	content ""
+	display block
+	height 30px
+	width 1px
+	background black
+	position absolute
+	left 26px
+	top 10px
+	transform rotate(-45deg)
+
+.lightbox-target:target 
+	opacity 1
+	top 0
+	bottom 0
+
+
+
+
+.lightbox-target:target .retina
+	max-width 960px
+	max-height 600px
+.lightbox-target:target p
+	z-index 5
+	font-size 2em
+	color black
+.lightbox-target:target img
+	max-width 100%
+	max-height 100%
+
+.lightbox-target:target a.lightbox-close
+	top 0
+
+
+
+@import 'mediaqueries'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
